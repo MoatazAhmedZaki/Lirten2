@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Lirten2/static/css/main.0ea9daaa.chunk.css",
+    "main.js": "/Lirten2/static/js/main.97f30f7f.chunk.js",
+    "main.js.map": "/Lirten2/static/js/main.97f30f7f.chunk.js.map",
+    "runtime-main.js": "/Lirten2/static/js/runtime-main.f08fe0f3.js",
+    "runtime-main.js.map": "/Lirten2/static/js/runtime-main.f08fe0f3.js.map",
+    "static/css/2.f1465143.chunk.css": "/Lirten2/static/css/2.f1465143.chunk.css",
+    "static/js/2.c2228b8f.chunk.js": "/Lirten2/static/js/2.c2228b8f.chunk.js",
+    "static/js/2.c2228b8f.chunk.js.map": "/Lirten2/static/js/2.c2228b8f.chunk.js.map",
+    "index.html": "/Lirten2/index.html",
+    "precache-manifest.f421d1d70f911484e304d34a3c6eb423.js": "/Lirten2/precache-manifest.f421d1d70f911484e304d34a3c6eb423.js",
+    "service-worker.js": "/Lirten2/service-worker.js",
+    "static/css/2.f1465143.chunk.css.map": "/Lirten2/static/css/2.f1465143.chunk.css.map",
+    "static/css/main.0ea9daaa.chunk.css.map": "/Lirten2/static/css/main.0ea9daaa.chunk.css.map",
+    "static/media/slick-theme.css": "/Lirten2/static/media/slick.f97e3bbf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f08fe0f3.js",
+    "static/css/2.f1465143.chunk.css",
+    "static/js/2.c2228b8f.chunk.js",
+    "static/css/main.0ea9daaa.chunk.css",
+    "static/js/main.97f30f7f.chunk.js"
+  ]
+}
